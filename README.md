@@ -66,10 +66,9 @@ Web application that converts user-entered text into speech using Web Speech API
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keertanbhaskar&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=keertanbhaskar&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keertanbhaskar&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=keertanbhaskar&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
