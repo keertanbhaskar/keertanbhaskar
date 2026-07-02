@@ -1,83 +1,190 @@
-# Hi 👋 I'm Keertana
+# Hi there, I'm Keertana Bhaskar 👋
 
-🚀 Aspiring **Full Stack Developer** passionate about building real-world web applications.
+<h3 align="center">
+🚀 Aspiring Software Engineer | Full Stack Developer 
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, solving real-world problems, and continuously learning modern software engineering practices.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keertanbhaskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-* 🌱 Currently learning **Full Stack Development**
-* 🛒 Building an **E-commerce platform (EverCart)**
-* 💡 Interested in **Web Development, AI Applications, and System Design**
+* 🎓 Computer Science student passionate about software development
+* 🌱 Currently learning **Full Stack Development,  and AI Applications**
+* 🚀 Building production-oriented projects and improving software engineering skills
+* 💡 Interested in **Web Development, Cloud Computing, Artificial Intelligence, and System Design**
 * 🎯 Goal: Become a strong **Software Engineer**
+* ⚡ Love building projects that solve real-world problems
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
-**Frontend**
+### Frontend
 
-React • JavaScript • HTML • CSS • Tailwind
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+</p>
 
-**Backend**
+### Backend
 
-Node.js • Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Database**
+### Database
 
-MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-**Tools**
+### DevOps & Tool
 
-Git • GitHub • VS Code • Postman
-
----
-
-## 📌 Featured Projects
-
-### 🛒 EverCart – Full Stack E-commerce Website
-
-Modern e-commerce web application.
-
-Features:
-
-* Product listing
-* Cart system
-* Authentication
-* Order management
-* Payment integration
-
-Tech Stack:
-React • Node.js • Express • MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
 
 ---
 
-### 🚦 Smart Traffic Violation Pattern Detector
+# 🚀 Featured Projects
 
-AI-based system that detects traffic violations using computer vision.
+## 🛒 EverCart – Full Stack E-Commerce Platform
+
+A modern full-stack e-commerce application designed with scalable architecture and industry-standard development practices.
+
+### Features
+
+* ✅ User Authentication & Authorization
+* ✅ Product Listing & Filtering
+* ✅ Shopping Cart System
+* ✅ Order Management
+* ✅ Payment Integration
+* ✅ Responsive Design
+* ✅ Admin Dashboard
+* ✅ REST API Architecture
+
+### Tech Stack
+
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 ---
 
-### 🔊 Text To Speech Web Application
+## 🚦 Smart Traffic Violation Pattern Detector
 
-Web application that converts user-entered text into speech using Web Speech API.
+An AI-powered traffic monitoring system capable of detecting and analyzing traffic violations using computer vision techniques.
+
+### Features
+
+* Vehicle Detection
+* Violation Analysis
+* Pattern Recognition
+* Automated Reporting
+* AI-Based Processing
+
+### Tech Stack
+
+`Python` • `Machine Learning` • `Computer Vision`
 
 ---
 
-## 📊 GitHub Stats
+## 🔊 Text To Speech Web Application
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=keertanbhaskar&show_icons=true&theme=tokyonight)
+A web application that converts user-entered text into natural speech using browser APIs.
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=keertanbhaskar&layout=compact&theme=tokyonight)
+### Features
+
+* Text-to-Speech Conversion
+* Multiple Voice Support
+* Adjustable Speech Speed
+* Responsive User Interface
+
+### Tech Stack
+
+`HTML` • `CSS` • `JavaScript` • `Web Speech API`
+
 ---
 
-## 📫 Connect With Me
+# 🚀 Currently Learning
 
-📧 Email: [keertanbhaskar@gmail.com](mailto:keertanbhaskar@gmail.com)
-💻 GitHub: https://github.com/keertanbhaskar
+```text
+✔ Full Stack Development
+✔ DevOps Engineering
+✔ Cloud Computing
+✔ System Design
+✔ AI Applications
+✔ Software Engineering Best Practices
+```
 
 
-<!---
-keertanbhaskar/keertanbhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keertanbhaskar&theme=tokyo-night" />
+</p>
+
+---
+
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=keertanbhaskar&theme=tokyonight&hide_border=true" />
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keertanbhaskar&theme=tokyo-night" />
+</p>
+
+---
+
+# 🧠 Problem Solving
+
+* 🌟 Practicing Data Structures & Algorithms
+* 💻 Building Real-World Projects
+* 🚀 Learning Scalable Software Engineering Practices
+
+---
+
+# 🎯 Career Objective
+
+I am actively building real-world applications and strengthening my software engineering fundamentals to contribute as a:
+
+* Software Engineer
+* Full Stack Developer
+* DevOps Engineer
+
+I enjoy solving complex problems, building scalable systems, and continuously learning modern technologies.
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **[keertanbhaskar@gmail.com](mailto:keertanbhaskar@gmail.com)**
+
+💻 GitHub: **https://github.com/keertanbhaskar**
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Build. Learn. Improve. Repeat."
+
+</div>
+
+<!--
+✨ This repository is a special repository because its README.md appears on your GitHub profile.
+-->
